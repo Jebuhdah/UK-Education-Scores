@@ -1,4 +1,4 @@
-# UK-Education-Scores
+# General-Linear-Mixed-Model: UK-Education-Scores
 This report uses data from http://www.bristol.ac.uk that records chemistry test scores from 2,200 
 schools in the United Kingdom for 31,000 students. This analytic will examine the important factors that 
 causes variations in the GCSE scores, with a hypothesis that students who are born near the end of a 
